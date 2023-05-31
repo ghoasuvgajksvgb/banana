@@ -1,0 +1,35 @@
+<html> 	
+	<head> <title> banana </title> 
+	<style type="text/css"> 
+	body { 
+	background-color #d2b48c; 
+	background-image url(joker.jpg);
+	background-size: cover; 
+	background-repeat: no-repeat;  
+	margin-left: 20% 
+	margin-right: 20%
+	border: 1px dotted gray
+	padding:10px 10px 10px 10px; 
+	font-family: sans-serif;
+	}
+ 	</style> 
+	</head> 
+	<center> 
+	<body> 
+	<h1 style="color: #F4F1F1; ">banana</h1> 
+	<h1 style="color: #F4F1F1; ">monkey banana, free</h1> 
+	<p style="color:#F4F1F1;> WIP</p>
+	<img src="joker.jpg" width="300px">
+	<h2 style="color: #F4F1F1;">Mocha Caffe Latte, $2.35</h2> 
+	<p style="color: #F4F1F1;">Espresso, steamed milk and chocolate syrup.</p> 
+	<img src=" jack.jpg" width="300px"> 
+	<h2 style="color: #F4F1F1; ">Cappuccino, $1.89</h2> 
+	<p style="color: #F4F1F1;">A spicy drink made with black tea, soices, milk and honey.</p> 
+	<img src=" Cappuccino.gif" width="300px"> 
+	<h2 style="color: #F4F1F1;">Chai Tea, $1</h2>
+	<p style="color: #F4F1F1;">A spicy drink made with black tea, soices, milk and honey.</p> 
+	<img src=" chai tea.gif" width="250px">
+	<h2><a href="index.html">Go back</a></h2>
+	</center>
+	</body>
+	</html>
